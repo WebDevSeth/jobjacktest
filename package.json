@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jobjack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevSeth/jobjacktest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevSeth/jobjacktest/issues"
+  },
+  "homepage": "https://github.com/WebDevSeth/jobjacktest#readme",
+  "dependencies": {
+    "g": "^2.0.1",
+    "testcafe": "^1.19.0"
+  }
+}
