@@ -26,7 +26,7 @@ test('My first test', async t => {
         .click(dropdownOption)
         .click(whatsappNoti)
         .click(dropdownOption)
-        .typeText(email,"littlezethstar3@gmail.com")
+        .typeText(email,"littlezethstar4@gmail.com")
         .typeText(location,"Heathfield")
         await t.expect(Selector(".ng-spinner-loader").exists).notOk()
         .click(dropdownOption)
